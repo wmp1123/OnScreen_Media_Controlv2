@@ -1,4 +1,5 @@
 pycaw
 comtypes
+asyncio
 winrt-runtime
 PyQt6
