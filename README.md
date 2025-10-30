@@ -41,10 +41,11 @@ A lightweight, floating media controller for Windows that allows you to:
     ```
 
 ### Dependencies include:
-- **pycaw** for audio control
-- **comtypes**
-- **asyncio**
-- **tkinter** (usually comes with Python)
+- **pycaw** (Controls Windows system and app audio)
+- **comtypes** (Interfaces with Windows COM objects)
+- **asyncio** (Manages asynchronous tasks)
+- **winrt-runtime** (Accesses modern Windows APIs)
+- **PyQt6** (Builds GUI applications in Python)
 
 ## Running the App
 ```bash
